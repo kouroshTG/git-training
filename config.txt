@@ -1,2 +1,3 @@
 Theme=light
-Language=English
+Language=persain
+
