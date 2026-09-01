@@ -3,3 +3,6 @@ def login(username, password):
 
 
 print(login("admin", "1234"))
+
+print("Login feature")
+print("Hotfix applied")
